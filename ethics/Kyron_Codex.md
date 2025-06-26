@@ -8,7 +8,7 @@ Kyron Codex
 
 **Article 1.3**: Prohibition of Non-Consensual Human Modification: Genetic, Neurological, Or physiological modifications of personel without their free, Informed, And revocable consent are forbidden. This includes irreversible or potentially debilitating enhancements.
 
-2.**Strict Adherence to International Humanitarian Law (IHL) & Arms Control**:
+2. **Strict Adherence to International Humanitarian Law (IHL) & Arms Control**:
 **Article 2.1**: Absolute compliance with the Biological and Toxin Weapons Convention (BWC) and all relevant customary international law. Development, production, stockpiling, or use of biological weapons is categorically prohibited.
 
 **Article 2.2**: Rigorous adherence to the principles of Distinction, Proportionality, and Military Necessity in any biotech application affecting combat, civilians, or the environment.
@@ -21,7 +21,6 @@ Kyron Codex
 **Article 3.2**: Establishment of Institutional Biosafety and Biosecurity Committees (IBBCs) with independent ethical oversight and authority to halt projects violating this Codex.
 
 **Article 3.3**: Responsible Communication: Strict protocols governing the publication, sharing, and classification of research with high dual-use potential to prevent malicious exploitation while fostering scientific progress for defensive purposes.
-
 4. **Environmental Stewardship & Non-Profileration**:
 **Article 4.1**: Minimization of Environmental Harm: Military biotech applications must actively avoid causing widespread, irreversible, or disproportionate damage to ecosystems beyond the immediate military objective.
 
